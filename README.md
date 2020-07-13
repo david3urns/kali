@@ -6,3 +6,9 @@ My first script, the "kali_setup.sh" script is a simple bash script I wrote to h
 I've run it a few times with success and am putting it out for other people to try. If you have any suggested packages to add please let me know so that I can update my script!
 
 Any feedback is also appreciated!
+
+############################################
+          UPDATED 13 JULY 2020
+############################################
+
+My conditional statements were incorrect, the script has been updated to make the conditional statements work as intended!
